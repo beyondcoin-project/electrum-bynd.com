@@ -1,6 +1,6 @@
-Electrum-LTC
-============
+Electrum-BYND
+=============
 
-Pooler's website for Electrum-LTC; A very advanced Litecoin wallet.
+Website for Electrum-BYND; A very advanced Beyondcoin wallet.
 
-http://electrum-ltc.org/
+https://electrum-bynd.beyondcoin.io/
